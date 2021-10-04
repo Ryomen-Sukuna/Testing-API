@@ -24,8 +24,13 @@
 
 ## ZERO Rest Api
 
-Repository ini untuk membantu mereka yang ingin memiliki rest api website sendiri\n
-Full Credits to [LoliKillers](https://github.com/LoliKillers)
+Repository ini untuk membantu mereka yang ingin memiliki rest api website sendiri
+
+## Credits
+
+Full Credits to:
+
+[LoliKillers](https://github.com/LoliKillers/Apriliya-Api)
 
 ## How To Deploy
 
