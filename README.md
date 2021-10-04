@@ -17,14 +17,18 @@
 <a href="https://github.com/Ryomen-Sukuna/Testing-API/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/github/license/Ryomen-Sukuna/Testing-API?style=flat&logo=github&color=success" /> </a>
 </p>
 <p align="center">
-<a href="" alt="Ryomen-Sukuna"> <img src="https://img.shields.io/badge/built%20by-ZERO-blue" /> </a>
+<a href="" alt="LoliKillers"> <img src="https://img.shields.io/badge/built%20by-LoliKillers-blue" /> </a>
 <a href="https://github.com/Ryomen-Sukuna/Testing-API/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/maintained%3F-yes-blue.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-blue.svg" /> </a>
 </p>
 
 ## ZERO Rest Api
 
-Repository ini untuk membantu mereka yang ingin memiliki rest api website sendiri
+Repository ini untuk membantu mereka yang ingin memiliki rest api website sendiri\n
 Full Credits to [LoliKillers](https://github.com/LoliKillers)
 
 ## How To Deploy
+
+## Note
+- Project ini open source
+- Tidak untuk di perjual belikan
