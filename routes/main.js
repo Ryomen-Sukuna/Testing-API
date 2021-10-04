@@ -35,24 +35,12 @@ router.get('/docs/downloader', (req, res) => {
 	res.sendFile(__path + '/api/downloader.html')
 })
 
-router.get('/docs/info', (req, res) => {
-	res.sendFile(__path + '/api/info.html')
-})
-
-router.get('/docs/islami', (req, res) => {
- 	res.sendFile(__path + '/api/islami.html')
-})
-
-router.get('/docs/fun', (req, res) => {
-	res.sendFile(__path + '/api/fun.html')
-})
-
 router.get('/config', (req, res) => {
     config = {
         status: true,
         result: {
             prefix : 'Multi Prefix',
-            namabot: 'Apriliya BotZ',
+            namabot: 'AR BotZ',
             namaowner: 'Loli Killer',
             instagram: 'ariasu_62',
             github : 'https:\/\/github.com\/LoliKillers',
