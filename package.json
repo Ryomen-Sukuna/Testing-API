@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/LoliKillers/Arnz-Api.git"
+    "url": "git+ssh://git@github.com/Ryomen-Sukuna/Testing-API.git"
   },
-  "author": "LolKill",
+  "author": "Ryomen-Sukuna",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LoliKillers/Arnz-Api/issues"
+    "url": "https://github.com/Ryomen-Sukuna/Testing-API/issues"
   },
-  "homepage": "https://github.com/LoliKillers/Arnz-Api#readme",
+  "homepage": "https://github.com/Ryomen-Sukuna/Testing-API#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "base-64": "^1.0.0",
