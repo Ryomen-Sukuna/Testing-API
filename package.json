@@ -30,7 +30,7 @@
     "mongodb": "^3.6.3",
     "monk": "^7.3.3",
     "morgan": "^1.10.0",
-    "needle": "^2.6.0",
+    "needle": "^3.0.0",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2",
     "scrape-yt": "^1.4.8",
